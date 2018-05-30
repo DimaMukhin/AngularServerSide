@@ -1,6 +1,6 @@
 # AngularServerSide
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.7.
+Angular server side rendering experimentation and reference
 
 ## Development server
 
